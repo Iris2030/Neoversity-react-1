@@ -25,6 +25,7 @@
     },
     "web": {
       "publicPath": "./",
+      "homepage": "https://Iris2030.github.io/Neoversity-react-1",
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
